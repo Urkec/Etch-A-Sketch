@@ -1,0 +1,12 @@
+#container {
+    width: 960px;
+    height: 960px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.square {
+    width: 60px;
+    height: 60px;
+    background-color: lightgray;
+    outline: 1px solid black;
+}
